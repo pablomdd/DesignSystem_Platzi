@@ -9,8 +9,11 @@
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
+<<<<<<< HEAD
     "gulp-concat": "^2.6.1",
     "gulp-minify-css": "^1.2.4",
+=======
+>>>>>>> ca9efc97b92d657fd4b224d8bdfef32a7ec61147
     "gulp-sass": "^4.0.2",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
